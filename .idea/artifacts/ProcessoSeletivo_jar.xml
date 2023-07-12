@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProcessoSeletivo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProcessoSeletivo_jar</output-path>
+    <root id="archive" name="ProcessoSeletivo.jar">
+      <element id="module-output" name="ProcessoSeletivo" />
+    </root>
+  </artifact>
+</component>

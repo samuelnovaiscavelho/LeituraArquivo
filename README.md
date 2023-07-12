@@ -9,7 +9,7 @@ Frase: Samuel Novais
                 System.out.println("Saída padrão: " + c);
             }
  ```
--> Exemplo do resultado de quebra por letra:
+-> Exemplo do resultado de quebra de linha por letra:
 
 
 Saída padrão: s

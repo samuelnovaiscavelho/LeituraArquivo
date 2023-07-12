@@ -1,6 +1,5 @@
-# LeituraArquivo
+# Complemento para auxilio da compreensão
 
-Frase: Samuel Novais
 
 ### Imprimir o conteúdo invertido letra por letra
 ```            
@@ -9,6 +8,8 @@ Frase: Samuel Novais
                 System.out.println("Saída padrão: " + c);
             }
  ```
+
+Exemplificando com a Frase: Samuel Novais
 -> Exemplo do resultado de quebra de linha por letra:
 
 
